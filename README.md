@@ -5,9 +5,9 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · oskarajaspinall-cell</sub></p>
 <h1>Oskar Aspinall</h1>
-<h2>Backend or systems engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<h2>AI investment developer</h2>
+<p>Building portfolio management systems for AI autonomy</p>
+
 
 <p><a href="https://github.com/oskarajaspinall-cell">GitHub</a></p>
 </td>
@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Backend or systems engineer · Python · Shell · Perl</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>AI investment developer · Python · Shell · Perl</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>1 repositories · 0 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>610 contributions · 38 active days</p></td>
 </tr>
